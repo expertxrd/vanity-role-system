@@ -1,3 +1,9 @@
+# Details
+
+There is no problem, the code has a total of 70 lines. (There is no possibility of any bugs.)
+
+The bot is for sale, the price is 300₺.
+
 # Support
 
 If you need a support, you can send your issue to **@expertxrd**. `(Discord)`

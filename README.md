@@ -2,7 +2,7 @@
 
 There is no problem, the code has a total of 70 lines. (There is no possibility of any bugs.)
 
-The bot is for sale, the price is 300₺.
+### The bot is for sale, the price is 300₺.
 
 # Support
 
